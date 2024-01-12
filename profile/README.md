@@ -1,3 +1,5 @@
+![The Apache Software Foundation](https://apache.org/img/asf-estd-1999-logo.jpg)
+
 The [Apache Software Foundation](https://apache.org) (ASF) is home to more
 than [300 software projects](https://projects.apache.org), many of which
 host their code repositories in this Github org.
