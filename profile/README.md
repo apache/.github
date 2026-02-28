@@ -1,4 +1,4 @@
-[![The Apache Software Foundation](https://apache.org/img/asf-estd-1999-logo.jpg)](https://apache.org/)
+[![The Apache Software Foundation](https://apache.org/img/asf_logo.png)](https://apache.org/)
 
 The [Apache Software Foundation](https://apache.org) (ASF) is home to more
 than [300 software projects](https://projects.apache.org), many of which
